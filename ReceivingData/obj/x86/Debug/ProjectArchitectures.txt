@@ -1,0 +1,1 @@
+C:\Users\moham\Documents\Visual Studio 2015\Projects\ReceivingData\ReceivingData\ReceivingData.csproj;x86
